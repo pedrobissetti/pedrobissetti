@@ -1,4 +1,4 @@
-### Hi there **Pedro Bissetti** here, Welcome👋
+### Hi there, Welcome👋
 
  <div>
   <a href="https://github.com/pedrobissetti">
