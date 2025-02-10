@@ -2,7 +2,9 @@
 
  <div>
   <a href="https://github.com/pedrobissetti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrobissetti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/pedrobissetti/github-readme-stats">
+   <img height=180em src="https://github-readme-stats.vercel.app/api?username=pedrobissetti&layout=compact&theme=radical" />
+  </a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobissetti&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
